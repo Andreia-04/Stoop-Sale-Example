@@ -2,7 +2,7 @@
 /*
 document.getElementById('door').addEventListener('click', function() {
     document.body.innerHTML = `
-            <div class = "container-img" id = "back-button"> <img src ="./assets/images/button.png" class = "content-img"> </div>
+            <div class = "container-img" id = "back-button"> <img src ="./assets/images/Button.png" class = "content-img"> </div>
             <div class = "new-content">
             <h1>Event Details</h1>
             <p>Date: July 15, 2024</p>
