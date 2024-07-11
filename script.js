@@ -1,4 +1,3 @@
-
 /*
 document.getElementById('door').addEventListener('click', function() {
     document.body.innerHTML = `
@@ -63,7 +62,7 @@ function loadEventDetails() {
         <div class="new-content">
             <h1>Event Details</h1>
             <p>Date: July 15, 2024</p>
-            <p>Location: 123 Main St, Your City</p>
+            <p>Location: <a href="https://www.google.com/maps?q=Carroll+Gardens+on+the+Corner+of+Court+Street+and+2nd+Ave+in+South+Brooklyn,+NYC" target="_blank">Carroll Gardens on the Corner of Court Street and 2nd Ave in South Brooklyn, NYC</a></p>
             <p>Time: 10:00 AM - 4:00 PM</p>
             <p>Join us for a fun-filled day of shopping, food, and entertainment!</p>
         </div>
